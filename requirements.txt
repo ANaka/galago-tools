@@ -1,7 +1,7 @@
 grpcio==1.70.0
 grpcio-tools==1.70.0
 grpcio-reflection==1.70.0
-pydantic==2.8.2
+pydantic>=2.13,<3
 requests==2.29.0
 python-dotenv==1.0.0
 packaging==25.0
