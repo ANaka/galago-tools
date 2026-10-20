@@ -1,7 +1,7 @@
 # Galago Tools
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11-blue.svg)](https://www.python.org/downloads/)
 [![GitHub Issues](https://img.shields.io/github/issues/sciencecorp/galago-tools)](https://github.com/sciencecorp/galago-tools/issues)
 
 **Open Source Lab Automation gRPC Library**
@@ -23,7 +23,7 @@ Galago Tools is a comprehensive Python library for lab automation that provides 
 
 ## 📋 Requirements
 
-- **Python**: 3.9
+- **Python**: 3.9, 3.10 or 3.11 (CI runs on 3.11)
 - **Operating System**: Windows, macOS, Linux
 
 If you plan to contribute or customize Galago Tools, start by forking the repository:
